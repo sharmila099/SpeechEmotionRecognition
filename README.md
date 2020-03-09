@@ -7,7 +7,7 @@
 Classify the emotion in the audio speech file using various machine learning and deep learning models.
 
 
-### Dataset:
+### Dataset: RAVDESS
 * To do the analysis, I’ve explored datasets containing audio and video files by professional actors in different emotional sequences (happy, angry, sad, surprised, frightened, neutral and calm). 
 * Since we are primarily focusing on processing the speech, the audio(WAV format) has been extracted from the video files(MP4 format). Then, the speech features such as, Mel Frequency Cepstrum Coefficients (MFCC) has been generated from the speech. 
 
